@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    padding: 20px;
+    background-color: #000;
+}
+
+h2 {
+    color: #fff;
+}
+
+p {
+    color: #ddd;
+    text-align: justify;
+}
+
+p:hover {
+    background-color: red;
+}

@@ -1,0 +1,5 @@
+
+
+Verificar la estandarizacion y utilizacion de funciones y metodos en w3school
+
+buscar: deteccion del navegador y cobertura a multiples navegadores

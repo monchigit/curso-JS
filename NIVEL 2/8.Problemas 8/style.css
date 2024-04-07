@@ -1,0 +1,45 @@
+
+body {
+    color: #222;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 30px 100px;
+    background-color: #222;
+    align-items: center;
+}
+
+h2 {
+    color: #fff;
+}
+
+.input-form {
+    margin: 10px 0;
+    padding: 3px 5px;
+    width: 200px;
+    outline: none !important;
+}
+
+
+.input-btn {
+    margin: 30px 0 10px 0;
+    padding: 3px 5px;
+    width: 150px;
+}
+
+.green {
+    color: #3a6;
+    font-weight: bold;
+}
+
+.red {
+    color: #d00;
+    font-weight: bold;
+}
+
+div {
+    padding: 15px;
+}

@@ -1,0 +1,29 @@
+.grid-container {
+    display: grid;
+    grid-template-rows: 45px;
+    grid-template-columns: repeat(4,minmax(min-content,max-content));
+    grid-auto-rows: 45px;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.grid-item {
+    padding:3px 10px;
+    margin: 3px 10px;
+    border: solid 2px #333;
+    box-shadow: 0 0 5px #444;
+    align-content: center;
+}
+
+.btn-confirmar {
+    padding: 9px 30px;
+    margin: 30px;
+    background-color: rgb(51, 169, 237);
+    border: none;
+    color: #ddd;
+}
+
+select {
+    border: none;
+    font-weight: bold;
+}
