@@ -1,0 +1,12 @@
+body {
+    background-color: #ddd;
+    color: #222;
+}
+
+.texto {
+    margin: 30px;
+}
+
+button {
+    margin: 10px;
+}
