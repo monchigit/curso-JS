@@ -1,0 +1,24 @@
+'use strict';
+const modal = document.querySelector('.modal-overlay');
+
+const definirIdioma =()=>{
+    document.querySelector('.en').addEventListener('click',()=>{
+        localStorage.setItem('idioma','en');
+        cerrarModal();
+    })
+    document.querySelector('.es').addEventListener('click',()=>{
+        localStorage.setItem('idioma','es');
+        cerrarModal();
+    })
+}
+
+const cerrarModal = ()=>{
+    modal.style.animation = 'desaparecer 0s forwards';
+}
+
+const idioma = localStorage.getItem('idioma')
+
+if (idioma ==null) definirIdioma();
+else {
+    console.log(`Idioma: ${idioma}`);
+    modal.style.display = 'none'};
