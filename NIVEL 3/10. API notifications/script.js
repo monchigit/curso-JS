@@ -9,3 +9,5 @@ Notification.requestPermission(()=>{
         new Notification('Suscribete')
     }
 })
+
+//curso js v1.7
