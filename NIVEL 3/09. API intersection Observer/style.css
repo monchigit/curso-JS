@@ -1,0 +1,32 @@
+body {
+    color: #222;
+    text-align: center;
+}
+
+.caja {
+    height: 300px;
+    width: 300px;
+    display: flex;
+    margin: 20px auto;
+    font-size: 26px;
+    background: #48e;
+    border: 4px dashed #26a;
+}
+
+.caja span {
+    margin: auto;
+    color: #fff;
+}
+
+.caja:nth-child(2) {
+    background: #e48;
+    border: 4px dashed #824;
+}
+.caja:nth-child(3) {
+    background: #4e8;
+    border: 4px dashed #284;
+}
+.caja:nth-child(4) {
+    background: #777;
+    border: 4px dashed #444;
+}

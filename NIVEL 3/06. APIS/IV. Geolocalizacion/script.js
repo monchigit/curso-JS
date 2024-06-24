@@ -22,7 +22,7 @@ const options = {
     enableHighAccuracy: true,
 }
 
-//para acceder a los datos, se le pasa una funcion como primer paraetro
+//para acceder a los datos, se le pasa una funcion como primer parametro
 //para manejar un error, se le pasa la segunda funcion parametro
 //para trabajar con las opciones se le pasa el objeto options
 

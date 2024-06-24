@@ -1,0 +1,93 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {"editor.cursorBlinking": "expand",
+	"files.autoSave": "afterDelay",
+	"files.autoSaveDelay": 1000,
+	"breadcrumbs.enabled": false,
+	"workbench.colorTheme": "One Dark Pro Flat",
+	"editor.linkedEditing": true,
+	"workbench.editor.enablePreview": false,
+	"editor.renderLineHighlight": "all",
+	"html.autoClosingTags": true,
+	"indentRainbow.colors": [
+		"rgba(255,150,30,0.2)",
+		"rgba(127,255,127,0.13)",
+		"rgba(255,127,255,0.13)",
+		"rgba(79,236,236,0.13)"
+	],
+	"workbench.colorCustomizations": {
+		"editor.selectionBackground": "#ece40d2d",
+		"editor.foreground": "#dee9e9fd",
+		"editor.selectionHighlightBackground": "#ece40d2d",
+		"editor.selectionHighlightBorder": "#ece40d46",
+		"editor.findMatchBackground": "#0dec5f2b",
+		"editor.findMatchHighlightBackground": "#0dec5f2b",
+		"editor.findMatchHighlightBorder": "#0dec5f2b"
+	},
+	"editor.smoothScrolling": true,
+	"zenMode.hideActivityBar": false,
+	"editor.snippetSuggestions": "top",
+	"editor.hover.enabled": false,
+	"editor.wordWrap": "on",
+	"better-comments.tags": [
+		{
+			"tag": "!",
+			"color": "#e37",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "?",
+			"color": "#3498DB",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "//",
+			"color": "#474747",
+			"strikethrough": true,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "#",
+			"color": "#FF8C00",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "*",
+			"color": "#98C379",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "@",
+			"color": "#cc0",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		}
+	]
+	}
+}

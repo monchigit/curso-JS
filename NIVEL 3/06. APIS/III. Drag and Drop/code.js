@@ -19,7 +19,7 @@ cuadrado.addEventListener('dragenter',()=>console.log(1));
 
 //# se activa cuando se arrastra un elemento por encima 
 cuadrado.addEventListener('dragover',(e)=>{
-    // con prevent default haceos que dragover pueda hacer drop
+    // con prevent default hacemos que dragover pueda hacer drop
     e.preventDefault();
     console.log(2);
 });
